@@ -9,5 +9,19 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "app\\": ""
+        }
+    },
+    "require": {
+        "vinadmin/wco": "^0.1.0",
+        "tracy/tracy": "v2.9.x-dev"
+    },
+    "repositories": [
+        {
+          "type": "path",
+          "url": "../repository/vinadmin/*"
+        }
+    ]
 }
