@@ -1,0 +1,13 @@
+{
+    "name": "vinadmin/wco-full",
+    "description": "Web optimization coding framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vitaliy Olkhin",
+            "email": "ovvitalik@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
