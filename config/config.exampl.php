@@ -21,8 +21,6 @@ $config = [
     'debug' => true,
     'uri' => [],
     'domain_alias' => [
-        'wco.loc' => 'wco.uz',
-        'aa' => 'bb',
     ],
 ]
 ?>
