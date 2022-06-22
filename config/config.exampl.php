@@ -15,7 +15,7 @@ $config = [
         'port' => 587,    //Порт
     ],
     'modules' => [
-        'apiController' => 'modules/apiv2/',
+        'admin' => 'modules/admin'
     ],
     'default_page_auth' => false,
     'debug' => true,
