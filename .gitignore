@@ -1,6 +1,8 @@
 vendor/
 composer.lock
 config.php
+db.php
 
 /nbproject/private/
 nbproject/
+error.log
