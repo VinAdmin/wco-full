@@ -25,7 +25,7 @@ use wco\kernel\WCO;
                         <div class="card-body">
                             <ul class="nav flex-column">
                                 <li class="nav-item">
-                                  <a class="nav-link active" href="#">Активная</a>
+                                    <a class="nav-link active" href="<?=WCO::Url('/wco/doc/')?>">Документация</a>
                                 </li>
                                 <li class="nav-item">
                                   <a class="nav-link" href="#">Ссылка</a>
