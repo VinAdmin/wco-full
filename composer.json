@@ -20,9 +20,5 @@
         "robmorgan/phinx": "dev-master"
     },
     "repositories": [
-        {
-            "type": "path",
-            "url": "../repository/vinadmin/*"
-        }
     ]
 }
