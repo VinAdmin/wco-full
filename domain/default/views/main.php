@@ -15,20 +15,22 @@ use wco\kernel\WCO;
     
     <body>
         <div class="container">
-            <img src="/default/images/logotip.png" alt="alt"/>
+            <a href="<?=WCO::Url('/')?>">
+                <img src="/default/images/logotip.png" alt="alt" class="img-fluid"/>
+            </a>
         </div>
         
         <div class="container-fluid">
             <div class="row">
-                <div class="col-xl-3">
+                <div class="col-xl-3 left_block">
                     <div class="card">
                         <div class="card-body">
                             <ul class="nav flex-column">
                                 <li class="nav-item">
-                                    <a class="nav-link active" href="<?=WCO::Url('/wco/doc/')?>">Документация</a>
+                                    <a class="nav-link active" href="<?=WCO::Url('/')?>">Главная</a>
                                 </li>
                                 <li class="nav-item">
-                                  <a class="nav-link" href="#">Ссылка</a>
+                                    <a class="nav-link active" href="<?=WCO::Url('/wco/doc/')?>">Документация</a>
                                 </li>
                                 <li class="nav-item">
                                   <a class="nav-link" href="#">Ссылка</a>
