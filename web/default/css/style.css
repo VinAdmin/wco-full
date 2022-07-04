@@ -6,9 +6,12 @@ body{
     background-size: cover;
 }
 
+.left_block{
+    margin-bottom: 10px;
+}
+
 .content{
     background-color: #FFFFFF;
     padding-bottom: 15px;
     margin-bottom: 15px;
-    margin-top: 10px;
 }
