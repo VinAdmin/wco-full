@@ -41,7 +41,7 @@ use wco\kernel\WCO;
                     </div>
                 </div>
                 
-                <div class="col-xl-9">
+                <div class="col-xl-9 content">
                     <?=$this->views?>
                 </div>
             </div>
