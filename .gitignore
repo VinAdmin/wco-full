@@ -1,7 +1,7 @@
 vendor/
 composer.lock
-config.php
-db.php
+/config/config.php
+/config/db.php
 
 /nbproject/private/
 nbproject/
