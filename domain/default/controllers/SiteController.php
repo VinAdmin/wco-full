@@ -5,4 +5,9 @@ class SiteController extends \wco\kernel\Controller{
         $this->generate('/index/index.php');
         return true;
     }
+    
+    public function actionTest() {
+        $this->generate('/index/test.php');
+        return true;
+    }
 }
