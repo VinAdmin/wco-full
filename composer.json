@@ -16,7 +16,7 @@
     },
     "require": {
         "vinadmin/wco": "@dev",
-        "tracy/tracy": "v2.9.x-dev",
+        "tracy/tracy": "v2.11.3",
         "robmorgan/phinx": "0.12.11"
     },
     "repositories": [
