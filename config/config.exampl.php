@@ -15,7 +15,8 @@ $config = [
         'port' => 587,    //Порт
     ],
     'modules' => [
-        'admin' => 'modules/admin'
+        'admin' => 'modules/admin',
+        'admin_aut_page' => false
     ],
     'default_page_auth' => false,
     'debug' => true,
